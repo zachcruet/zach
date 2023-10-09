@@ -1,0 +1,31 @@
+body {
+		background-color: gold;
+}
+#gatsbyImage{
+	width: 400px;
+	border: solid white;
+	margin: 50px;
+	padding: 50px;
+}
+#writer {
+	font-size: 25px;
+}
+.party {
+	color: white;
+	border: solid white;
+}
+.pub {
+    font: cursive;
+}
+p{
+	font-family: cursive;
+	background-color: white;
+}
+a:hover {
+	color: white;
+}
+div{
+	margin: 50px;
+	padding: 50px;
+	border: 5px dotted white;
+}
